@@ -1,8 +1,4 @@
-material-design-iconic-font: re-packaged for Meteor
-===================================================
-
-# [Material Design Iconic Font v1.0.1](http://zavoloklom.github.io/material-design-iconic-font)
-### Material Design Iconic Font and CSS toolkit
+# [Material Design Iconic Font re-packaged for Meteor](http://zavoloklom.github.io/material-design-iconic-font)
 
 Material Design Iconic Font is a full suite of material design icons (created and maintained by [Google](https://github.com/google/material-design-icons)) for easy scalable vector graphics on websites.
 
