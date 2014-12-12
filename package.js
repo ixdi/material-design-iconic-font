@@ -1,7 +1,7 @@
 Package.describe({
     name: 'ixdi:material-design-iconic-font',
     summary: 'Material Design iconic font and CSS toolkit by zavoloklom',
-    version: '1.0.1',
+    version: '1.1.0',
     git: 'https://github.com/ixdi/material-design-iconic-font.git'
 });
 
