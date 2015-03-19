@@ -7,7 +7,23 @@ Material Design Iconic Font is a full suite of material design icons (created an
 
 Material Design Icons are the official open-source [icons](http://www.google.com/design/spec/resources/sticker-sheets.html#sticker-sheets-components) featured in the Google [Material Design](http://www.google.com/design/spec) specification.
 
-Demo: [http://zavoloklom.github.io/material-design-iconic-font](http://zavoloklom.github.io/material-design-iconic-font)
+## Installation
+
+In a Meteor app directory, enter:
+
+```
+$ meteor add ixdi:material-design-iconic-font
+```
+
+## Example
+
+Use it like Font Awesome does but with md prefix
+
+```html
+<i class="md md-local-florist"></i>
+```
+
+[Examples](http://zavoloklom.github.io/material-design-iconic-font/examples.html) 
 
 ## Licence
 
