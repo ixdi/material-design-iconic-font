@@ -20,20 +20,44 @@ $ meteor add ixdi:material-design-iconic-font
 Use it like Font Awesome does but with md prefix
 
 ```html
-<i class="md md-local-florist"></i>
+<i class="zmdi zmdi-local-florist zmd-2x"></i>
 ```
 
-[Examples](http://zavoloklom.github.io/material-design-iconic-font/examples.html) 
+[Examples](http://zavoloklom.github.io/material-design-iconic-font/examples.html)
 
 ## Licence
 
 The full details of how Material Design Iconic Font is licensed and 'Thanks to' section: [License page](http://zavoloklom.github.io/material-design-iconic-font/license.html).
 
+## Browser Support
+- Chrome 21+
+- Firefox 22+
+- Opera 12.1+
+- Safari 6.1+
+- IE 10+
+- Android Browser 4.3+
+- Not supported in Opera Mini
+
+In fact it can work in earlier versions of browsers accordingly to [caniuse.com](http://caniuse.com/) portal (you can check ttf, woff, transform and animation properties), but i can't test it.
+
 ## Changelog
-- v1.1.1 - add bower support and Cheatsheet page
-- v1.1.0 - add SCSS support (thanks to @davidkpiano)
-- v1.0.1 - fix bug with battery, charging-battery and wi-fi icons (device section)
-- v1.0.0 - add all available icons from [Google](https://github.com/google/material-design-icons)
+v2.0.2:
+- some minor changes in less/scss/css files for better icons display
+
+v2.0.1:
+- remove IE8-9 hooks
+- fix "!default" to used properly way in sass code
+[2.0.1 GitHub milestones](https://github.com/zavoloklom/material-design-iconic-font/issues?milestone=2&page=1&state=closed)
+v2.0.0:
+- add new Google icons
+- remove duplicated icons to reduce font size
+- resort and rename icons for better search (no backward compatibility with old icon names)
+- no support for IE7-8 (remove eot and svg font files)
+- change icon-prefix to 'zmdi-' for capability with Angular JS
+- add 'fixed-width', 'list' and 'stack' classes
+- add "!default" to sass variables
+- add vars with glyph codes to less/sass
+- add nested pseudo classes for less/sass
 
 ## Versioning
 
