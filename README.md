@@ -17,7 +17,7 @@ $ meteor add ixdi:material-design-iconic-font
 
 ## Example
 
-Use it like Font Awesome does but with md prefix
+Use it like Font Awesome does but with zmdi prefix
 
 ```html
 <i class="zmdi zmdi-local-florist zmd-2x"></i>
