@@ -3,7 +3,7 @@
 
 # [Material Design Iconic Font re-packaged for Meteor](http://zavoloklom.github.io/material-design-iconic-font)
 
-This package provide CSS version of the Material Design Iconic Font.
+[![Material Design Iconic Font](http://zavoloklom.github.io/material-design-iconic-font/img/Material-Design-Iconic-Font.png)](http://zavoloklom.github.io/material-design-iconic-font/)
 
 Material Design Iconic Font is a full suite of material design icons (created and maintained by [Google](https://github.com/google/material-design-icons)) for easy scalable vector graphics on websites.
 
@@ -16,6 +16,8 @@ Material Design Icons are the official open-source [icons](http://www.google.com
 **Issue with cheatsheet**: If you think icons do not match the cheatsheet page, please read [issue 47](https://github.com/zavoloklom/material-design-iconic-font/issues/47).
 
 **If you use font as standalone font - you should update it carefully, because 2.1 ttf file cheat sheet hasn't backward compatibility with 2.0. Sorry for that, but in 2.0 was a bug that I couldn't remove without breaking backward compatibility.**
+
+This package provides the CSS toolkit without LESS or SASS.
 
 ## Installation
 
