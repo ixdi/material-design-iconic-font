@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Material Design Iconic Font';
-    src: url('material-design-iconic-font/dist/dist/font/Material-Design-Iconic-Font.woff?v=1.0.1') format('woff'), url('material-design-iconic-font/dist/font/Material-Design-Iconic-Font.ttf?v=1.0.1') format('truetype');
+    src: url('material-design-iconic-font/dist/dist/fonts/Material-Design-Iconic-Font.woff?v=2.1.0') format('woff'), url('material-design-iconic-font/dist/fonts/Material-Design-Iconic-Font.ttf?v=2.1.0') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
