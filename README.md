@@ -32,7 +32,7 @@ $ meteor add ixdi:material-design-iconic-font
 Use it like Font Awesome does but with zmdi prefix
 
 ```html
-<i class="zmdi zmdi-local-florist zmd-2x"></i>
+<i class="zmdi zmdi-local-florist zmdi-hc-2x"></i>
 ```
 
 [Examples](http://zavoloklom.github.io/material-design-iconic-font/examples.html)
