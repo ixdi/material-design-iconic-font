@@ -1,7 +1,7 @@
 Package.describe({
     name: 'ixdi:material-design-iconic-font',
     summary: 'Material Design Icons Font v2.0',
-    version: '2.1.4',
+    version: '2.1.4-1',
     git: 'https://github.com/ixdi/material-design-iconic-font.git'
 });
 
@@ -13,7 +13,7 @@ Package.onUse(function(api) {
         'material-design-iconic-font/dist/fonts/Material-Design-Iconic-Font.ttf'
     ], 'client');
     api.addFiles([
-        'material-design-iconic-font/dist/css/material-design-iconic-font.css',
-        'fonts-override.css'
+        'fonts-override.css',
+        'material-design-iconic-font/dist/css/material-design-iconic-font.css'
     ], 'client');
 });
